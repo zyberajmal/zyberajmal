@@ -156,9 +156,9 @@ A stronger reporting culture improves security operations because users can prov
 
 The human layer therefore became part of the wider detection and response process.
 
-## Documentation and Operational Support
+## Documentation and Knowledge Transfer
 
-The awareness program was supported by structured documentation.
+The awareness program was supported by structured documentation and ongoing knowledge transfer.
 
 Related records and knowledge included areas such as:
 
