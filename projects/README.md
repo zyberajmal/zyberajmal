@@ -97,4 +97,4 @@ Only information suitable for a public professional portfolio is included. Sensi
 
 ---
 
-[Back to profile](../README.md)
+[Enterprise Capabilities](../career/capabilities.md) · [Engineering Approach](../methodology/engineering-approach.md) · [Knowledge & Lab](../learning/README.md) · [Back to profile](../README.md)
