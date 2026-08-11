@@ -10,7 +10,7 @@
 
 **Designing secure, scalable and well-documented enterprise technology environments.**
 
-[Professional Portfolio](https://ajmalanwar.com) · [Projects](projects/README.md) · [Capabilities](career/capabilities.md) · [Knowledge & Lab](learning/README.md) · [Career Journey](career/professional-journey.md)
+[Professional Portfolio](https://ajmalanwar.com) · [Portfolio Overview](docs/portfolio-overview.md) · [Projects](projects/README.md) · [Capabilities](career/capabilities.md) · [Knowledge & Lab](learning/README.md) · [Career Journey](career/professional-journey.md)
 
 </div>
 
@@ -21,6 +21,8 @@
 I am an enterprise technology professional with **15+ years of experience** across infrastructure engineering, data-center operations, hospitality technology, cybersecurity implementation, governance, documentation and project delivery.
 
 My work connects **technology, security and business requirements**. I focus on building environments that are secure, reliable, understandable and practical to operate, with security integrated into the wider technology lifecycle rather than treated as a separate layer.
+
+[View the professional portfolio overview](docs/portfolio-overview.md)
 
 ---
 
