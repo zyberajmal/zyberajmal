@@ -1,6 +1,6 @@
 # Enterprise Capabilities
 
-My experience spans the full lifecycle of enterprise technology work: understanding requirements, evaluating options, implementing controls, validating outcomes, documenting decisions and improving operations over time.
+My experience spans the full lifecycle of enterprise technology work. I focus on understanding requirements, evaluating options, implementing controls, validating outcomes, documenting decisions and improving operations over time.
 
 ## Enterprise Infrastructure
 
@@ -21,9 +21,9 @@ My experience spans the full lifecycle of enterprise technology work: understand
 
 ## Governance & Compliance
 
-- Security-framework alignment
+- Security framework alignment
 - Policy and hardening reviews
-- Control-gap identification
+- Control gap identification
 - Evidence and documentation development
 - Risk-based technical recommendations
 
@@ -46,7 +46,7 @@ Documentation is part of the engineering process, not an afterthought. My focus 
 - Standard operating procedures
 - Security recommendations
 - Troubleshooting references
-- Knowledge-base articles
+- Knowledge base articles
 - Operational handover material
 
 ---
