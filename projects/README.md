@@ -1,18 +1,18 @@
+<div align="center">
+
 # Enterprise Project Portfolio
+
+**Selected enterprise technology and security initiatives organized by capability.**
+
+[Endpoint & Infrastructure](#endpoint--infrastructure-security) · [Identity & Access](#identity--access-security) · [Email & Human Security](#email--human-security) · [Detection & Monitoring](#detection--monitoring) · [Governance & Hardening](#governance--platform-hardening)
+
+</div>
+
+---
 
 This portfolio documents selected enterprise technology and security initiatives in a sanitized format suitable for public presentation.
 
 The projects are organized by capability so that the portfolio shows the broader engineering areas behind the individual technologies. Each case study focuses on the business problem, engineering approach, contribution, validation, operational value and lessons learned.
-
-## Portfolio Areas
-
-- **Endpoint & Infrastructure Security**
-- **Identity & Access Security**
-- **Email & Human Security**
-- **Detection & Monitoring**
-- **Governance & Platform Hardening**
-
----
 
 ## Endpoint & Infrastructure Security
 
