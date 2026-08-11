@@ -59,7 +59,17 @@ The three areas serve different purposes:
 | **ZyberKnowledge** | Provides deeper technical concepts, engineering context and maintained reference material |
 | **ZyberLab** | Provides practical exercises used to build, test and validate technical understanding |
 
-A project case study can therefore remain concise while the deeper technical concepts live in ZyberKnowledge and practical validation can be documented in ZyberLab.
+A project case study can therefore remain concise while deeper concepts live in ZyberKnowledge and practical validation can be documented in ZyberLab.
+
+## Related Portfolio Evidence
+
+| Learning Area | Related Case Studies |
+|---|---|
+| **Windows & Active Directory** | [Windows & Active Directory Security Hardening](../projects/windows-active-directory-security-hardening.md) · [Datadog Security Detection Engineering](../projects/datadog-security-detection-engineering.md) |
+| **Endpoint Security** | [CrowdStrike Endpoint Protection](../projects/crowdstrike-endpoint-protection.md) · [NinjaOne Endpoint Management](../projects/ninjaone-endpoint-management.md) · [BitLocker Endpoint Encryption](../projects/bitlocker-endpoint-encryption.md) |
+| **Identity & Access** | [Okta Identity & Access Management](../projects/okta-identity-access-management.md) · [StrongDM Privileged Access](../projects/strongdm-privileged-access.md) |
+| **Email & Human Security** | [Mimecast Email Security](../projects/mimecast-email-security.md) · [KnowBe4 Security Awareness](../projects/knowbe4-security-awareness.md) |
+| **Governance & Hardening** | [Cloud File Sharing Platform Security Hardening & Governance Review](../projects/cloud-file-sharing-platform-security-hardening.md) |
 
 ## Publication Approach
 
@@ -71,4 +81,4 @@ Confidential company information, internal architecture, credentials, production
 
 **Learn. Build. Document. Improve.**
 
-[Back to profile](../README.md)
+[Enterprise Capabilities](../career/capabilities.md) · [Engineering Approach](../methodology/engineering-approach.md) · [Project Portfolio](../projects/README.md) · [Back to profile](../README.md)
