@@ -26,9 +26,9 @@ The focus includes secure mail flow, phishing protection, impersonation controls
 
 ### Privileged Access | StrongDM
 
-The focus includes secure administrative access, privileged access workflows and reducing unnecessary direct exposure to sensitive infrastructure.
+The focus includes privileged access governance, granular RBAC, database access gateways, session recording, removal of static credentials and stronger auditability across sensitive infrastructure.
 
-**Public case study:** Planned.
+**Case study:** [StrongDM Privileged Access](strongdm-privileged-access.md)
 
 ### Endpoint Management | NinjaOne RMM
 
