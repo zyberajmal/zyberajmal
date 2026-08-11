@@ -87,9 +87,11 @@ Email security work focused on secure mail flow, phishing protection, impersonat
 
 ### Privileged Access
 
-Administrative access workflows designed to reduce unnecessary privileged exposure and improve control over sensitive systems.
+Privileged access work focused on granular RBAC, controlled database access, session visibility, removal of static credentials and stronger accountability for administrative access.
 
-[Explore the project portfolio](projects/README.md)
+[Read the StrongDM Privileged Access case study](projects/strongdm-privileged-access.md)
+
+[Explore the full project portfolio](projects/README.md)
 
 ---
 
@@ -129,6 +131,7 @@ This background gives me a practical perspective on cybersecurity. Security work
 - [CrowdStrike Endpoint Protection Case Study](projects/crowdstrike-endpoint-protection.md)
 - [Okta Identity & Access Management Case Study](projects/okta-identity-access-management.md)
 - [Mimecast Email Security Case Study](projects/mimecast-email-security.md)
+- [StrongDM Privileged Access Case Study](projects/strongdm-privileged-access.md)
 - [Enterprise Capabilities](career/capabilities.md)
 - [Engineering Approach](methodology/engineering-approach.md)
 - [Project Portfolio](projects/README.md)
