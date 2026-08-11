@@ -6,7 +6,7 @@
 
 **Designing secure, scalable and well-documented enterprise technology environments.**
 
-[Professional Portfolio](https://ajmalanwar.com) · [Capabilities](career/capabilities.md) · [Projects](projects/README.md) · [Career Journey](career/professional-journey.md)
+[Professional Portfolio](https://ajmalanwar.com) · [Capabilities](career/capabilities.md) · [Projects](projects/README.md) · [Career Journey](career/professional-journey.md) · [Recognition](career/awards-recognition.md)
 
 </div>
 
@@ -142,6 +142,17 @@ This background gives me a practical perspective on cybersecurity. Security work
 
 ---
 
+## Awards & Recognition
+
+- **Employee of the Year, Associate Level | 2026**
+- **Team Spirit & Collaboration Award | 2023**
+
+These recognitions reflect the importance I place on ownership, collaboration, communication and contribution beyond individual technical tasks.
+
+[View awards and recognition](career/awards-recognition.md)
+
+---
+
 ## Professional Principles
 
 **Integrity · Curiosity · Continuous Improvement · Practical Solutions**
@@ -166,6 +177,7 @@ This background gives me a practical perspective on cybersecurity. Security work
 - [Project Portfolio](projects/README.md)
 - [Professional Journey](career/professional-journey.md)
 - [Professional Certifications](career/certifications.md)
+- [Awards & Recognition](career/awards-recognition.md)
 
 ---
 
