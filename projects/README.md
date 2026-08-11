@@ -20,9 +20,9 @@ The focus includes centralized authentication, application access, identity life
 
 ### Email Security | Mimecast
 
-The focus includes email security implementation, phishing risk reduction, mail flow protection, policy review and operational security.
+The focus includes secure mail flow, phishing protection, impersonation controls, SPF, DKIM, DMARC, malicious URL and attachment protection, monitoring and policy tuning.
 
-**Public case study:** Planned.
+**Case study:** [Mimecast Email Security](mimecast-email-security.md)
 
 ### Privileged Access | StrongDM
 
