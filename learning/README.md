@@ -63,11 +63,9 @@ A project case study can therefore remain concise while the deeper technical con
 
 ## Publication Approach
 
-The public learning spaces contain generalized technical information only.
+The public learning spaces contain generalized technical information intended for professional learning and reference.
 
-Private GitHub repositories are used as the source for GitBook synchronization and content management. They are intentionally not linked from this public profile.
-
-Confidential company information, internal architecture, credentials, production identifiers and organization-specific security gaps are excluded from the public documentation.
+Confidential company information, internal architecture, credentials, production identifiers, organization-specific security gaps and other sensitive operational details are excluded from the published material.
 
 ---
 
