@@ -1,61 +1,61 @@
 # Enterprise Project Portfolio
 
-This section documents selected enterprise technology and security initiatives in a sanitized, public-safe format.
+This section documents selected enterprise technology and security initiatives in a sanitized format that is suitable for public presentation.
 
-The purpose is to demonstrate how I approach real-world engineering problems without publishing confidential company information, internal architecture, credentials, private configuration data or sensitive operational details.
+The goal is to show how I approach real-world engineering problems without publishing confidential company information, internal architecture, credentials, private configuration data or sensitive operational details.
 
 ## Featured Project Areas
 
-### Endpoint Security — CrowdStrike
+### Endpoint Security | CrowdStrike
 
-**Focus:** Enterprise endpoint protection, policy implementation, deployment coordination, validation and operational improvement.
-
-**Public case study:** Planned.
-
-### Identity & Access Management — Okta
-
-**Focus:** Identity management, secure authentication, access controls, user lifecycle considerations and operational governance.
+The focus includes enterprise endpoint protection, policy implementation, deployment coordination, validation and operational improvement.
 
 **Public case study:** Planned.
 
-### Email Security — Mimecast
+### Identity & Access Management | Okta
 
-**Focus:** Email-security implementation, phishing-risk reduction, mail-flow protection, policy review and operational security.
-
-**Public case study:** Planned.
-
-### Privileged Access — StrongDM
-
-**Focus:** Secure administrative access, privileged-access workflows and reducing unnecessary direct exposure to sensitive infrastructure.
+The focus includes identity management, secure authentication, access controls, user lifecycle considerations and operational governance.
 
 **Public case study:** Planned.
 
-### Endpoint Management — NinjaOne RMM
+### Email Security | Mimecast
 
-**Focus:** Endpoint administration, operational visibility, remote management and structured device-management processes.
+The focus includes email security implementation, phishing risk reduction, mail flow protection, policy review and operational security.
+
+**Public case study:** Planned.
+
+### Privileged Access | StrongDM
+
+The focus includes secure administrative access, privileged access workflows and reducing unnecessary direct exposure to sensitive infrastructure.
+
+**Public case study:** Planned.
+
+### Endpoint Management | NinjaOne RMM
+
+The focus includes endpoint administration, operational visibility, remote management and structured device management processes.
 
 **Public case study:** Planned.
 
 ### Windows & Infrastructure Hardening
 
-**Focus:** Windows security, Active Directory monitoring, endpoint hardening, encryption, access controls and security-use-case development.
+The focus includes Windows security, Active Directory monitoring, endpoint hardening, encryption, access controls and security use case development.
 
 **Public case study:** Planned.
 
 ## Case Study Structure
 
-Each detailed project will follow a consistent format:
+Each detailed project will follow a consistent structure:
 
 1. Business Context
-2. Problem / Requirement
+2. Problem or Requirement
 3. Existing Challenges
-4. Research & Evaluation
+4. Research and Evaluation
 5. Design Approach
 6. Implementation
-7. Security & Governance Considerations
+7. Security and Governance Considerations
 8. Validation
-9. Business / Operational Value
-10. Documentation & Lessons Learned
+9. Business and Operational Value
+10. Documentation and Lessons Learned
 
 ## Publication Principle
 
