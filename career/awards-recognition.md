@@ -38,6 +38,8 @@ The principles I try to maintain across my work are:
 
 These principles also influence how I approach enterprise technology today. My goal is to deliver work that remains useful, understandable and supportable after the original project is complete.
 
+The technical and project evidence behind that work is available through my [Project Portfolio](../projects/README.md) and [Enterprise Capabilities](capabilities.md).
+
 ---
 
-[Back to profile](../README.md) | [View professional journey](professional-journey.md)
+[Professional Journey](professional-journey.md) · [Certifications](certifications.md) · [Enterprise Capabilities](capabilities.md) · [Project Portfolio](../projects/README.md) · [Back to profile](../README.md)
