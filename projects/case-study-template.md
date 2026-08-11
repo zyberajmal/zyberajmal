@@ -76,4 +76,4 @@ Where technical context is useful, sensitive details should be generalized while
 
 ---
 
-[← Back to project portfolio](README.md)
+[Project Portfolio](README.md) · [Enterprise Capabilities](../career/capabilities.md) · [Engineering Approach](../methodology/engineering-approach.md) · [Knowledge & Lab](../learning/README.md) · [Back to profile](../README.md)
