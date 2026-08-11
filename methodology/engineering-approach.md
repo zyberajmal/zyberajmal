@@ -44,4 +44,17 @@ Revisit the environment as requirements, threats and technologies change. Use op
 
 The objective is not simply to deploy a platform. It is to create an environment that can be operated confidently, supported consistently and improved as business and security requirements evolve.
 
-[← Back to profile](../README.md)
+## See the Approach Applied
+
+Different projects emphasize different parts of the lifecycle:
+
+| Example | What It Demonstrates |
+|---|---|
+| [**NinjaOne Endpoint Management**](../projects/ninjaone-endpoint-management.md) | Requirements, staged rollout, validation, automation and continuous operational improvement |
+| [**Datadog Security Detection Engineering**](../projects/datadog-security-detection-engineering.md) | Inventory, gap analysis, prioritization, validation, tuning and documentation |
+| [**Cloud File Sharing Platform Security Hardening & Governance Review**](../projects/cloud-file-sharing-platform-security-hardening.md) | Research, risk assessment, business alignment, remediation planning and controlled change |
+| [**KnowBe4 Security Awareness**](../projects/knowbe4-security-awareness.md) | Platform transition, recurring training, measurement, coaching and continuous improvement |
+
+---
+
+[Enterprise Capabilities](../career/capabilities.md) · [Project Portfolio](../projects/README.md) · [Knowledge & Lab](../learning/README.md) · [Back to profile](../README.md)
