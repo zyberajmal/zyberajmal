@@ -80,6 +80,12 @@ Enterprise disk-encryption work focused on BitLocker, centralized Group Policy d
 
 [Read the BitLocker Endpoint Encryption case study](projects/bitlocker-endpoint-encryption.md)
 
+### Credential Protection
+
+Credential-risk reduction work focused on preventing browser password saving through Group Policy, reducing locally stored credentials, moving users toward an enterprise-managed credential vault and reinforcing safer password practices.
+
+[Read the Browser Password Risk Reduction case study](projects/browser-password-risk-reduction.md)
+
 ### Identity Management
 
 Identity and access work focused on centralized authentication, application access, user lifecycle controls, least privilege, access validation and operational governance.
@@ -195,6 +201,7 @@ These recognitions reflect the importance I place on ownership, collaboration, c
 - [ZyberLab](https://ajmal-anwar.gitbook.io/zyberspace-by-ajmal/)
 - [CrowdStrike Endpoint Protection Case Study](projects/crowdstrike-endpoint-protection.md)
 - [BitLocker Endpoint Encryption Case Study](projects/bitlocker-endpoint-encryption.md)
+- [Browser Password Risk Reduction Case Study](projects/browser-password-risk-reduction.md)
 - [Okta Identity & Access Management Case Study](projects/okta-identity-access-management.md)
 - [Mimecast Email Security Case Study](projects/mimecast-email-security.md)
 - [StrongDM Privileged Access Case Study](projects/strongdm-privileged-access.md)
