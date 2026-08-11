@@ -81,7 +81,9 @@ Identity and access work focused on centralized authentication, application acce
 
 ### Email Security
 
-Email security controls focused on reducing phishing, spoofing and account compromise risk while supporting reliable business communication.
+Email security work focused on secure mail flow, phishing protection, impersonation controls, SPF, DKIM, DMARC, malicious URL and attachment protection, monitoring and policy tuning.
+
+[Read the Mimecast Email Security case study](projects/mimecast-email-security.md)
 
 ### Privileged Access
 
@@ -126,6 +128,7 @@ This background gives me a practical perspective on cybersecurity. Security work
 - [Professional Portfolio](https://ajmalanwar.com)
 - [CrowdStrike Endpoint Protection Case Study](projects/crowdstrike-endpoint-protection.md)
 - [Okta Identity & Access Management Case Study](projects/okta-identity-access-management.md)
+- [Mimecast Email Security Case Study](projects/mimecast-email-security.md)
 - [Enterprise Capabilities](career/capabilities.md)
 - [Engineering Approach](methodology/engineering-approach.md)
 - [Project Portfolio](projects/README.md)
