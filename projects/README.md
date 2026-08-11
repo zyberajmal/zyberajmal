@@ -36,6 +36,12 @@ The focus includes secure mail flow, phishing protection, impersonation controls
 
 **Case study:** [Mimecast Email Security](mimecast-email-security.md)
 
+### Security Awareness | KnowBe4
+
+The focus includes phishing simulations, recurring security training, awareness campaigns, policy acknowledgement, security coaching, user-risk tracking and strengthening the culture around reporting suspicious activity.
+
+**Case study:** [KnowBe4 Security Awareness](knowbe4-security-awareness.md)
+
 ### Privileged Access | StrongDM
 
 The focus includes privileged access governance, granular RBAC, database access gateways, session recording, removal of static credentials and stronger auditability across sensitive infrastructure.
