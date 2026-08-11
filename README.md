@@ -74,6 +74,12 @@ Enterprise endpoint security work focused on behavioral protection, policy imple
 
 [Read the CrowdStrike Endpoint Protection case study](projects/crowdstrike-endpoint-protection.md)
 
+### Endpoint Encryption
+
+Enterprise disk-encryption work focused on BitLocker, centralized Group Policy deployment, recovery-key management, validation and data-at-rest protection across managed Windows laptops.
+
+[Read the BitLocker Endpoint Encryption case study](projects/bitlocker-endpoint-encryption.md)
+
 ### Identity Management
 
 Identity and access work focused on centralized authentication, application access, user lifecycle controls, least privilege, access validation and operational governance.
@@ -188,6 +194,7 @@ These recognitions reflect the importance I place on ownership, collaboration, c
 - [ZyberKnowledge](https://ajmal-anwar.gitbook.io/zyberspace-by-ajmal/zyberknowledge)
 - [ZyberLab](https://ajmal-anwar.gitbook.io/zyberspace-by-ajmal/)
 - [CrowdStrike Endpoint Protection Case Study](projects/crowdstrike-endpoint-protection.md)
+- [BitLocker Endpoint Encryption Case Study](projects/bitlocker-endpoint-encryption.md)
 - [Okta Identity & Access Management Case Study](projects/okta-identity-access-management.md)
 - [Mimecast Email Security Case Study](projects/mimecast-email-security.md)
 - [StrongDM Privileged Access Case Study](projects/strongdm-privileged-access.md)
