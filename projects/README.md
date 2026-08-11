@@ -14,9 +14,9 @@ The focus includes enterprise endpoint protection, behavioral detection, policy 
 
 ### Identity & Access Management | Okta
 
-The focus includes identity management, secure authentication, access controls, user lifecycle considerations and operational governance.
+The focus includes centralized authentication, application access, identity lifecycle controls, least privilege, access validation, documentation and operational governance.
 
-**Public case study:** Planned.
+**Case study:** [Okta Identity & Access Management](okta-identity-access-management.md)
 
 ### Email Security | Mimecast
 
