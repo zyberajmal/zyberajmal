@@ -97,6 +97,12 @@ Endpoint management work focused on centralized visibility, patch management, vu
 
 [Read the NinjaOne Endpoint Management case study](projects/ninjaone-endpoint-management.md)
 
+### Windows & Active Directory Security
+
+Windows and Active Directory security work focused on identity change monitoring, privileged group activity, GPO and OU changes, authentication security, BitLocker, Datadog detections and controlled validation.
+
+[Read the Windows & Active Directory Security Hardening case study](projects/windows-active-directory-security-hardening.md)
+
 [Explore the full project portfolio](projects/README.md)
 
 ---
@@ -139,6 +145,7 @@ This background gives me a practical perspective on cybersecurity. Security work
 - [Mimecast Email Security Case Study](projects/mimecast-email-security.md)
 - [StrongDM Privileged Access Case Study](projects/strongdm-privileged-access.md)
 - [NinjaOne Endpoint Management Case Study](projects/ninjaone-endpoint-management.md)
+- [Windows & Active Directory Security Hardening Case Study](projects/windows-active-directory-security-hardening.md)
 - [Enterprise Capabilities](career/capabilities.md)
 - [Engineering Approach](methodology/engineering-approach.md)
 - [Project Portfolio](projects/README.md)
