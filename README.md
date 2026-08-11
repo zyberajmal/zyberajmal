@@ -61,7 +61,7 @@ My objective is to create technology environments that can be operated confident
 | Endpoint Management | NinjaOne RMM, Windows administration |
 | Network Security | Fortinet, network segmentation and secure connectivity |
 | Security Awareness | KnowBe4, phishing simulations, training and awareness campaigns |
-| Governance & Hardening | ownCloud security review, access governance, public-sharing controls |
+| Governance & Hardening | Cloud file sharing security review, access governance, public-sharing controls |
 | Documentation | Architecture, implementation, SOPs, troubleshooting and knowledge bases |
 
 ---
@@ -130,9 +130,9 @@ Security detection engineering work focused on Datadog rule inventory, coverage 
 
 ### Platform Security & Governance
 
-Platform security review focused on user and guest governance, public sharing, authentication, password controls, link protection, encryption review and ISO 27001-aligned recommendations.
+Cloud file sharing platform security review focused on internal and external user governance, public sharing, MFA, password controls, public uploads, link protection, expiration, encryption review and structured hardening recommendations.
 
-[Read the ownCloud Security Hardening & Governance Review](projects/owncloud-security-hardening-governance.md)
+[Read the Cloud File Sharing Platform Security Hardening & Governance Review](projects/cloud-file-sharing-platform-security-hardening.md)
 
 [Explore the full project portfolio](projects/README.md)
 
@@ -215,7 +215,7 @@ These recognitions reflect the importance I place on ownership, collaboration, c
 - [NinjaOne Endpoint Management Case Study](projects/ninjaone-endpoint-management.md)
 - [Windows & Active Directory Security Hardening Case Study](projects/windows-active-directory-security-hardening.md)
 - [Datadog Security Detection Engineering Case Study](projects/datadog-security-detection-engineering.md)
-- [ownCloud Security Hardening & Governance Review](projects/owncloud-security-hardening-governance.md)
+- [Cloud File Sharing Platform Security Hardening & Governance Review](projects/cloud-file-sharing-platform-security-hardening.md)
 - [Enterprise Capabilities](career/capabilities.md)
 - [Engineering Approach](methodology/engineering-approach.md)
 - [Project Portfolio](projects/README.md)
