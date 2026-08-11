@@ -210,38 +210,27 @@ The emphasis is not simply on which products were used. The portfolio shows the 
 
 ---
 
-## Certifications
+## Professional Certifications & Technical Credentials
 
 My certification history spans Microsoft, EC-Council, Mimecast, Fortinet, Cisco and Splunk and reflects technical development from early infrastructure and networking through cybersecurity architecture, operations, identity and email security.
 
-### Current Credentials
+- **Microsoft Certified: Cybersecurity Architect Expert | Microsoft | Issued Dec 2025**
+- **Microsoft Certified: Security Operations Analyst Associate | Microsoft | Issued Jun 2025**
+- **Microsoft Certified: Security, Compliance, and Identity Fundamentals | Microsoft | Issued Mar 2025**
+- **Certified Ethical Hacker (CEH) | EC-Council | Issued Jun 2023**
+- **Email Security Cloud Gateway Advanced | Mimecast | Issued Jan 2024**
+- **DMARC Analyzer | Mimecast | Issued Dec 2023**
+- **Brand Exploit Protection | Mimecast | Issued Dec 2023**
+- **Secure Email Gateway - Level 1 Warrior | Mimecast | Issued May 2024**
+- **Fortinet Network Security Expert Level 1: Certified Associate | Fortinet | Issued Jun 2020**
+- **Fortinet Network Security Expert Level 2: Certified Associate | Fortinet | Issued Jun 2020**
+- **Splunk 7.x Fundamentals Part 1 | Splunk | Issued Feb 2021**
+- **Microsoft Certified Technical Specialist | Microsoft | Issued Jan 2010**
+- **Cisco Certified Network Associate Routing and Switching | Cisco | Issued Oct 2010**
 
-- **Microsoft Certified: Cybersecurity Architect Expert | Issued Dec 2025 | Expires Dec 2026**
-- **Microsoft Certified: Security, Compliance, and Identity Fundamentals | Issued Mar 2025 | No expiration**
+**Certification note:** Some certifications and technical credentials listed above were earned under vendor programs with renewal periods or certification structures that have since changed. They are included as part of my professional certification and learning history.
 
-### Expired Credentials
-
-- **Microsoft Certified: Security Operations Analyst Associate | Jun 2025 to Jun 2026**
-- **Certified Ethical Hacker (CEH) | Jun 2023 to Jun 2026**
-- **Mimecast Email Security, Cloud Gateway Advanced | Jan 2024 to Jan 2026**
-- **Mimecast DMARC Analyzer | Dec 2023 to Dec 2025**
-
-### Additional Vendor Credentials
-
-- **Mimecast Brand Exploit Protection | Issued Dec 2023**
-- **Mimecast Secure Email Gateway - Level 1 Warrior | Issued May 2024**
-
-### Legacy and Historical Credentials
-
-- **Fortinet Network Security Expert Level 1: Certified Associate | Issued Jun 2020**
-- **Fortinet Network Security Expert Level 2: Certified Associate | Issued Jun 2020**
-- **Splunk 7.x Fundamentals Part 1 | Issued Feb 2021**
-- **Microsoft Certified Technical Specialist | Issued Jan 2010**
-- **Cisco Certified Network Associate Routing and Switching | Issued Oct 2010**
-
-Expired and legacy certifications are retained because they form part of my professional learning history, but they are not presented as currently active credentials.
-
-[View complete certification details and status](../career/certifications.md)
+[View complete certification details](../career/certifications.md)
 
 ---
 
