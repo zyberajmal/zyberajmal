@@ -1,80 +1,80 @@
 # Enterprise Project Portfolio
 
-This section documents selected enterprise technology and security initiatives in a sanitized format that is suitable for public presentation.
+This portfolio documents selected enterprise technology and security initiatives in a sanitized format suitable for public presentation.
 
-The goal is to show how I approach real-world engineering problems without publishing confidential company information, internal architecture, credentials, private configuration data or sensitive operational details.
+The projects are organized by capability so that the portfolio shows the broader engineering areas behind the individual technologies. Each case study focuses on the business problem, engineering approach, contribution, validation, operational value and lessons learned.
 
-## Featured Project Areas
+## Portfolio Areas
 
-### Endpoint Security | CrowdStrike
+- **Endpoint & Infrastructure Security**
+- **Identity & Access Security**
+- **Email & Human Security**
+- **Detection & Monitoring**
+- **Governance & Platform Hardening**
 
-The focus includes enterprise endpoint protection, behavioral detection, policy implementation, deployment support, validation, EDR visibility, alert triage and operational improvement.
+---
 
-**Case study:** [CrowdStrike Endpoint Protection](crowdstrike-endpoint-protection.md)
+## Endpoint & Infrastructure Security
 
-### Endpoint Encryption | Microsoft BitLocker
+Projects focused on endpoint protection, data-at-rest security, device management, Windows hardening and credential protection.
 
-The focus includes standardized full-disk encryption, Active Directory Group Policy deployment, centralized recovery-key handling, validation, user support and data-at-rest protection across managed Windows laptops.
+| Project | Focus |
+|---|---|
+| [**CrowdStrike Endpoint Protection**](crowdstrike-endpoint-protection.md) | Behavioral endpoint protection, EDR visibility, policy implementation, detection validation and investigation |
+| [**BitLocker Endpoint Encryption**](bitlocker-endpoint-encryption.md) | Full-disk encryption, Group Policy deployment, centralized recovery-key handling and validation |
+| [**NinjaOne Endpoint Management**](ninjaone-endpoint-management.md) | Patch management, vulnerability visibility, remote administration, monitoring and automation |
+| [**Browser Password Risk Reduction**](browser-password-risk-reduction.md) | Browser credential restrictions, Group Policy enforcement, managed credential storage and user awareness |
+| [**Windows & Active Directory Security Hardening**](windows-active-directory-security-hardening.md) | Identity and privilege oversight, GPO and OU security, endpoint hardening, patching and security visibility |
 
-**Case study:** [BitLocker Endpoint Encryption](bitlocker-endpoint-encryption.md)
+---
 
-### Credential Protection | Browser Password Risk Reduction
+## Identity & Access Security
 
-The focus includes restricting browser password saving through Active Directory Group Policy, reducing locally stored credentials, moving users toward an enterprise-managed credential vault, validation and user awareness.
+Projects focused on centralized identity, application access, least privilege and privileged infrastructure access.
 
-**Case study:** [Browser Password Risk Reduction](browser-password-risk-reduction.md)
+| Project | Focus |
+|---|---|
+| [**Okta Identity & Access Management**](okta-identity-access-management.md) | Centralized authentication, application access, identity lifecycle controls and access validation |
+| [**StrongDM Privileged Access**](strongdm-privileged-access.md) | RBAC, controlled database and infrastructure access, reduced static credentials and session visibility |
 
-### Identity & Access Management | Okta
+---
 
-The focus includes centralized authentication, application access, identity lifecycle controls, least privilege, access validation, documentation and operational governance.
+## Email & Human Security
 
-**Case study:** [Okta Identity & Access Management](okta-identity-access-management.md)
+Projects focused on technical email protection and the human layer of phishing resilience.
 
-### Email Security | Mimecast
+| Project | Focus |
+|---|---|
+| [**Mimecast Email Security**](mimecast-email-security.md) | Secure email gateway, anti-phishing, impersonation protection, SPF, DKIM, DMARC and threat protection |
+| [**KnowBe4 Security Awareness**](knowbe4-security-awareness.md) | Phishing simulations, recurring training, policy acknowledgement, coaching and awareness campaigns |
 
-The focus includes secure mail flow, phishing protection, impersonation controls, SPF, DKIM, DMARC, malicious URL and attachment protection, monitoring and policy tuning.
+---
 
-**Case study:** [Mimecast Email Security](mimecast-email-security.md)
+## Detection & Monitoring
 
-### Security Awareness | KnowBe4
+Projects focused on security-use-case design, coverage analysis, validation, prioritization and continuous tuning.
 
-The focus includes phishing simulations, recurring security training, awareness campaigns, policy acknowledgement, security coaching, user-risk tracking and strengthening the culture around reporting suspicious activity.
+| Project | Focus |
+|---|---|
+| [**Datadog Security Detection Engineering**](datadog-security-detection-engineering.md) | Detection inventory, coverage mapping, Windows and Active Directory gaps, prioritization, validation and false-positive tuning |
 
-**Case study:** [KnowBe4 Security Awareness](knowbe4-security-awareness.md)
+The Windows and Active Directory hardening case study also includes security visibility and controlled validation, while this Datadog case study focuses specifically on the detection-engineering lifecycle.
 
-### Privileged Access | StrongDM
+---
 
-The focus includes privileged access governance, granular RBAC, database access gateways, session recording, removal of static credentials and stronger auditability across sensitive infrastructure.
+## Governance & Platform Hardening
 
-**Case study:** [StrongDM Privileged Access](strongdm-privileged-access.md)
+Projects focused on risk assessment, configuration review, governance, business alignment and structured remediation planning.
 
-### Endpoint Management | NinjaOne RMM
+| Project | Focus |
+|---|---|
+| [**Cloud File Sharing Platform Security Hardening & Governance Review**](cloud-file-sharing-platform-security-hardening.md) | User and guest governance, public-link security, MFA, password policy, upload controls, encryption review and implementation planning |
 
-The focus includes centralized endpoint visibility, patch management, vulnerability review, remote administration, monitoring, automation and support for remote devices without VPN dependency.
+---
 
-**Case study:** [NinjaOne Endpoint Management](ninjaone-endpoint-management.md)
+## How the Case Studies Are Structured
 
-### Windows & Active Directory Security Hardening
-
-The focus includes Active Directory identity and privilege oversight, GPO and OU security, endpoint hardening, BitLocker, browser credential protection, patching, security visibility and controlled validation.
-
-**Case study:** [Windows & Active Directory Security Hardening](windows-active-directory-security-hardening.md)
-
-### Datadog Security Detection Engineering
-
-The focus includes detection inventory, coverage mapping, gap analysis, Windows and Active Directory use cases, alert prioritization, validation, false-positive tuning and detection documentation.
-
-**Case study:** [Datadog Security Detection Engineering](datadog-security-detection-engineering.md)
-
-### Cloud File Sharing Platform Security Hardening & Governance
-
-The focus includes platform security assessment, internal and external user governance, public-link controls, MFA, password policy, upload security, link expiration, encryption review, change planning and structured management recommendations.
-
-**Case study:** [Cloud File Sharing Platform Security Hardening & Governance Review](cloud-file-sharing-platform-security-hardening.md)
-
-## Case Study Structure
-
-Each detailed project uses a consistent core structure, adapted where necessary for assessments, operational programs or initiatives that are not traditional product implementations:
+Each detailed project uses a common core structure, adapted where necessary for assessments, operational programs or initiatives that are not traditional product implementations:
 
 1. Business Context
 2. Problem or Requirement
@@ -85,7 +85,9 @@ Each detailed project uses a consistent core structure, adapted where necessary 
 7. Security and Governance Considerations
 8. Validation
 9. Business and Operational Value
-10. Documentation and Lessons Learned
+10. My Contribution
+11. Documentation and Knowledge Transfer
+12. Lessons Learned
 
 [View the detailed public case study template](case-study-template.md)
 
@@ -95,4 +97,4 @@ Only information suitable for a public professional portfolio is included. Sensi
 
 ---
 
-[← Back to profile](../README.md)
+[Back to profile](../README.md)
