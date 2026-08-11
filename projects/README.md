@@ -42,6 +42,12 @@ The focus includes Active Directory change monitoring, privileged group activity
 
 **Case study:** [Windows & Active Directory Security Hardening](windows-active-directory-security-hardening.md)
 
+### Datadog Security Detection Engineering
+
+The focus includes detection inventory, coverage mapping, gap analysis, Windows and Active Directory use cases, alert prioritization, validation, false-positive tuning and detection documentation.
+
+**Case study:** [Datadog Security Detection Engineering](datadog-security-detection-engineering.md)
+
 ### ownCloud Security Hardening & Governance
 
 The focus includes platform security assessment, user and guest governance, public-sharing controls, authentication, password policy, link protection, expiration, encryption review, ISO 27001 alignment and structured management recommendations.
