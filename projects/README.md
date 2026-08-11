@@ -56,7 +56,7 @@ The focus includes centralized endpoint visibility, patch management, vulnerabil
 
 ### Windows & Active Directory Security Hardening
 
-The focus includes Active Directory change monitoring, privileged group activity, GPO and OU changes, authentication security, endpoint hardening, BitLocker, Datadog detections and controlled validation.
+The focus includes Active Directory identity and privilege oversight, GPO and OU security, endpoint hardening, BitLocker, browser credential protection, patching, security visibility and controlled validation.
 
 **Case study:** [Windows & Active Directory Security Hardening](windows-active-directory-security-hardening.md)
 
@@ -74,14 +74,14 @@ The focus includes platform security assessment, internal and external user gove
 
 ## Case Study Structure
 
-Each detailed project will follow a consistent structure:
+Each detailed project uses a consistent core structure, adapted where necessary for assessments, operational programs or initiatives that are not traditional product implementations:
 
 1. Business Context
 2. Problem or Requirement
 3. Existing Challenges
 4. Research and Evaluation
 5. Design Approach
-6. Implementation
+6. Implementation or Review Activity
 7. Security and Governance Considerations
 8. Validation
 9. Business and Operational Value
@@ -91,7 +91,7 @@ Each detailed project will follow a consistent structure:
 
 ## Publication Principle
 
-Only information suitable for a public professional portfolio will be included. Sensitive items such as internal IP addresses, hostnames, credentials, customer information, non-public architecture, proprietary screenshots and confidential company data will be excluded or generalized.
+Only information suitable for a public professional portfolio is included. Sensitive items such as internal IP addresses, hostnames, credentials, customer information, non-public architecture, proprietary screenshots and confidential company data are excluded or generalized.
 
 ---
 
