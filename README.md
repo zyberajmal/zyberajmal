@@ -6,7 +6,7 @@
 
 **Designing secure, scalable and well-documented enterprise technology environments.**
 
-[Professional Portfolio](https://ajmalanwar.com) · [Capabilities](career/capabilities.md) · [Projects](projects/README.md) · [Knowledge & Lab](learning/README.md) · [Career Journey](career/professional-journey.md) · [Recognition](career/awards-recognition.md)
+[Professional Portfolio](https://ajmalanwar.com) · [Projects](projects/README.md) · [Capabilities](career/capabilities.md) · [Knowledge & Lab](learning/README.md) · [Career Journey](career/professional-journey.md)
 
 </div>
 
@@ -16,22 +16,19 @@
 
 I am an enterprise technology professional with **15+ years of experience** across infrastructure engineering, data-center operations, hospitality technology, cybersecurity implementation, governance, documentation and project delivery.
 
-My work focuses on connecting **technology, security and business requirements**. I aim to build environments that are secure, reliable, understandable and practical to operate.
-
-I believe security creates the most value when it is integrated into the wider technology environment and supported by clear documentation, thoughtful implementation and continuous improvement.
+My work connects **technology, security and business requirements**. I focus on building environments that are secure, reliable, understandable and practical to operate, with security integrated into the wider technology lifecycle rather than treated as a separate layer.
 
 ---
 
-## Professional Focus
+## Core Capabilities
 
-| Capability | Focus |
+| Area | Focus |
 |---|---|
 | **Enterprise Infrastructure** | Windows, networking, endpoint management and core enterprise platforms |
-| **Security Engineering** | Endpoint, identity, email, access and infrastructure security |
-| **Security Implementation** | Translating security requirements into practical technical controls |
-| **Identity & Access Management** | Authentication, access governance and privileged access |
-| **Governance & Compliance** | Security frameworks, hardening, policy alignment and evidence |
-| **Project Delivery** | Research, design, implementation, validation and handover |
+| **Security Engineering** | Endpoint, identity, email, privileged access and infrastructure security |
+| **Monitoring & Detection** | Security use cases, Windows and Active Directory visibility, validation and tuning |
+| **Governance & Hardening** | Security reviews, control gaps, policy alignment and risk-based recommendations |
+| **Project Delivery** | Research, evaluation, design, implementation, validation and handover |
 | **Documentation & Knowledge Transfer** | Architecture, procedures, implementation guides and operational knowledge |
 
 [Explore my enterprise capabilities](career/capabilities.md)
@@ -42,97 +39,24 @@ I believe security creates the most value when it is integrated into the wider t
 
 > **Understand → Research → Evaluate → Design → Implement → Validate → Document → Train → Improve**
 
-Successful engineering is not simply about deploying technology. It begins with understanding the business problem and continues through research, design, implementation, validation, documentation, knowledge transfer and ongoing improvement.
-
-My objective is to create technology environments that can be operated confidently, supported consistently and improved as business and security requirements evolve.
+I use this lifecycle to connect technical implementation with business context, security requirements and long-term operational value.
 
 [Read my engineering approach](methodology/engineering-approach.md)
 
 ---
 
-## Enterprise Technology & Security Experience
+## Selected Enterprise Projects
 
-| Area | Platforms and Experience |
+| Project | Focus |
 |---|---|
-| Endpoint Security | CrowdStrike, BitLocker, endpoint hardening |
-| Identity & Access | Okta, StrongDM, MFA, privileged access |
-| Email Security | Mimecast, DMARC and email security controls |
-| Monitoring & Detection | Datadog, Wazuh, Security Onion, Sysmon |
-| Endpoint Management | NinjaOne RMM, Windows administration |
-| Network Security | Fortinet, network segmentation and secure connectivity |
-| Security Awareness | KnowBe4, phishing simulations, training and awareness campaigns |
-| Governance & Hardening | Cloud file sharing security review, access governance, public-sharing controls |
-| Documentation | Architecture, implementation, SOPs, troubleshooting and knowledge bases |
+| [**CrowdStrike Endpoint Protection**](projects/crowdstrike-endpoint-protection.md) | Behavioral endpoint protection, EDR visibility, policy implementation and investigation |
+| [**Okta Identity & Access Management**](projects/okta-identity-access-management.md) | Centralized identity, application access, lifecycle controls and least privilege |
+| [**Mimecast Email Security**](projects/mimecast-email-security.md) | Secure email gateway, anti-phishing, impersonation protection, SPF, DKIM and DMARC |
+| [**StrongDM Privileged Access**](projects/strongdm-privileged-access.md) | RBAC, controlled infrastructure access, reduced static credentials and session visibility |
+| [**NinjaOne Endpoint Management**](projects/ninjaone-endpoint-management.md) | Patch management, vulnerability visibility, remote administration and automation |
+| [**Datadog Security Detection Engineering**](projects/datadog-security-detection-engineering.md) | Detection coverage, gap analysis, prioritization, validation and tuning |
 
----
-
-## Featured Project Areas
-
-### Endpoint Protection
-
-Enterprise endpoint security work focused on behavioral protection, policy implementation, deployment support, validation, EDR visibility, alert triage and continuous improvement.
-
-[Read the CrowdStrike Endpoint Protection case study](projects/crowdstrike-endpoint-protection.md)
-
-### Endpoint Encryption
-
-Enterprise disk-encryption work focused on BitLocker, centralized Group Policy deployment, recovery-key management, validation and data-at-rest protection across managed Windows laptops.
-
-[Read the BitLocker Endpoint Encryption case study](projects/bitlocker-endpoint-encryption.md)
-
-### Credential Protection
-
-Credential-risk reduction work focused on preventing browser password saving through Group Policy, reducing locally stored credentials, moving users toward an enterprise-managed credential vault and reinforcing safer password practices.
-
-[Read the Browser Password Risk Reduction case study](projects/browser-password-risk-reduction.md)
-
-### Identity Management
-
-Identity and access work focused on centralized authentication, application access, user lifecycle controls, least privilege, access validation and operational governance.
-
-[Read the Okta Identity & Access Management case study](projects/okta-identity-access-management.md)
-
-### Email Security
-
-Email security work focused on secure mail flow, phishing protection, impersonation controls, SPF, DKIM, DMARC, malicious URL and attachment protection, monitoring and policy tuning.
-
-[Read the Mimecast Email Security case study](projects/mimecast-email-security.md)
-
-### Security Awareness
-
-Security awareness work focused on phishing simulations, recurring training, policy acknowledgement, security coaching, awareness campaigns, user-risk tracking and strengthening the reporting culture.
-
-[Read the KnowBe4 Security Awareness case study](projects/knowbe4-security-awareness.md)
-
-### Privileged Access
-
-Privileged access work focused on granular RBAC, controlled database access, session visibility, removal of static credentials and stronger accountability for administrative access.
-
-[Read the StrongDM Privileged Access case study](projects/strongdm-privileged-access.md)
-
-### Endpoint Management
-
-Endpoint management work focused on centralized visibility, patch management, vulnerability prioritization, remote administration, monitoring and automation for distributed devices.
-
-[Read the NinjaOne Endpoint Management case study](projects/ninjaone-endpoint-management.md)
-
-### Windows & Active Directory Security
-
-Windows and Active Directory security work focused on identity change monitoring, privileged group activity, GPO and OU changes, authentication security, BitLocker, Datadog detections and controlled validation.
-
-[Read the Windows & Active Directory Security Hardening case study](projects/windows-active-directory-security-hardening.md)
-
-### Detection Engineering
-
-Security detection engineering work focused on Datadog rule inventory, coverage mapping, gap analysis, Windows and Active Directory use cases, prioritization, validation, false-positive tuning and documentation.
-
-[Read the Datadog Security Detection Engineering case study](projects/datadog-security-detection-engineering.md)
-
-### Platform Security & Governance
-
-Cloud file sharing platform security review focused on internal and external user governance, public sharing, MFA, password controls, public uploads, link protection, expiration, encryption review and structured hardening recommendations.
-
-[Read the Cloud File Sharing Platform Security Hardening & Governance Review](projects/cloud-file-sharing-platform-security-hardening.md)
+Additional work includes endpoint encryption, browser credential protection, Windows and Active Directory security hardening, security awareness, and cloud file sharing platform security governance.
 
 [Explore the full project portfolio](projects/README.md)
 
@@ -140,54 +64,20 @@ Cloud file sharing platform security review focused on internal and external use
 
 ## Knowledge & Lab
 
-My portfolio is supported by two public learning spaces that document the deeper technical thinking and hands-on learning behind my work.
+My project work is supported by two public learning spaces:
 
-### ZyberKnowledge
+- **[ZyberKnowledge](https://ajmal-anwar.gitbook.io/zyberspace-by-ajmal/zyberknowledge)** for structured enterprise technology and security reference material
+- **[ZyberLab](https://ajmal-anwar.gitbook.io/zyberspace-by-ajmal/)** for hands-on learning, testing and technical validation
 
-A maintained enterprise technology and security knowledge base covering infrastructure, security engineering, identity, detection and response, governance, hardening and engineering practices.
-
-[Open ZyberKnowledge](https://ajmal-anwar.gitbook.io/zyberspace-by-ajmal/zyberknowledge)
-
-### ZyberLab
-
-A practical cybersecurity lab focused on Windows, Active Directory, security events, Sysmon, monitoring, networking and small hands-on exercises designed to build and validate technical understanding.
-
-[Open ZyberLab](https://ajmal-anwar.gitbook.io/zyberspace-by-ajmal/)
-
-[Explore how Knowledge, Lab and Portfolio connect](learning/README.md)
+[See how Portfolio, Knowledge and Lab connect](learning/README.md)
 
 ---
 
-## Professional Journey
+## Career, Certifications & Recognition
 
-My career developed from systems administration and infrastructure support into data-center operations, hospitality technology leadership and enterprise infrastructure and security engineering.
+My career developed from systems administration and infrastructure support into data-center operations, hospitality technology leadership, enterprise infrastructure and security engineering.
 
-This background gives me a practical perspective on cybersecurity. Security works best when it is designed as part of the wider technology environment rather than added as a separate layer after implementation.
-
-[View my professional journey](career/professional-journey.md)
-
----
-
-## Certifications
-
-- **CEH** | Certified Ethical Hacker
-- **Microsoft SC-100** | Cybersecurity Architect Expert
-- **Microsoft SC-200** | Security Operations Analyst Associate
-- **Microsoft SC-900** | Security, Compliance, and Identity Fundamentals
-- **CCNA** | Cisco Certified Network Associate
-
-[View certification details](career/certifications.md)
-
----
-
-## Awards & Recognition
-
-- **Employee of the Year, Associate Level | 2026**
-- **Team Spirit & Collaboration Award | 2023**
-
-These recognitions reflect the importance I place on ownership, collaboration, communication and contribution beyond individual technical tasks.
-
-[View awards and recognition](career/awards-recognition.md)
+[Professional Journey](career/professional-journey.md) · [Certifications](career/certifications.md) · [Awards & Recognition](career/awards-recognition.md)
 
 ---
 
@@ -199,35 +89,11 @@ These recognitions reflect the importance I place on ownership, collaboration, c
 
 ---
 
-## Explore My Work
-
-- [Professional Portfolio](https://ajmalanwar.com)
-- [Knowledge & Lab](learning/README.md)
-- [ZyberKnowledge](https://ajmal-anwar.gitbook.io/zyberspace-by-ajmal/zyberknowledge)
-- [ZyberLab](https://ajmal-anwar.gitbook.io/zyberspace-by-ajmal/)
-- [CrowdStrike Endpoint Protection Case Study](projects/crowdstrike-endpoint-protection.md)
-- [BitLocker Endpoint Encryption Case Study](projects/bitlocker-endpoint-encryption.md)
-- [Browser Password Risk Reduction Case Study](projects/browser-password-risk-reduction.md)
-- [Okta Identity & Access Management Case Study](projects/okta-identity-access-management.md)
-- [Mimecast Email Security Case Study](projects/mimecast-email-security.md)
-- [KnowBe4 Security Awareness Case Study](projects/knowbe4-security-awareness.md)
-- [StrongDM Privileged Access Case Study](projects/strongdm-privileged-access.md)
-- [NinjaOne Endpoint Management Case Study](projects/ninjaone-endpoint-management.md)
-- [Windows & Active Directory Security Hardening Case Study](projects/windows-active-directory-security-hardening.md)
-- [Datadog Security Detection Engineering Case Study](projects/datadog-security-detection-engineering.md)
-- [Cloud File Sharing Platform Security Hardening & Governance Review](projects/cloud-file-sharing-platform-security-hardening.md)
-- [Enterprise Capabilities](career/capabilities.md)
-- [Engineering Approach](methodology/engineering-approach.md)
-- [Project Portfolio](projects/README.md)
-- [Professional Journey](career/professional-journey.md)
-- [Professional Certifications](career/certifications.md)
-- [Awards & Recognition](career/awards-recognition.md)
-
----
-
 <div align="center">
 
 ### Learn. Build. Document. Improve.
+
+[ajmalanwar.com](https://ajmalanwar.com)
 
 *This profile contains sanitized professional and technical information for public presentation. Confidential company data, internal architecture, credentials and sensitive operational details are intentionally excluded.*
 
