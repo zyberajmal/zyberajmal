@@ -66,11 +66,11 @@ The focus includes detection inventory, coverage mapping, gap analysis, Windows 
 
 **Case study:** [Datadog Security Detection Engineering](datadog-security-detection-engineering.md)
 
-### ownCloud Security Hardening & Governance
+### Cloud File Sharing Platform Security Hardening & Governance
 
-The focus includes platform security assessment, user and guest governance, public-sharing controls, authentication, password policy, link protection, expiration, encryption review, ISO 27001 alignment and structured management recommendations.
+The focus includes platform security assessment, internal and external user governance, public-link controls, MFA, password policy, upload security, link expiration, encryption review, change planning and structured management recommendations.
 
-**Case study:** [ownCloud Security Hardening & Governance Review](owncloud-security-hardening-governance.md)
+**Case study:** [Cloud File Sharing Platform Security Hardening & Governance Review](cloud-file-sharing-platform-security-hardening.md)
 
 ## Case Study Structure
 
