@@ -32,9 +32,9 @@ The focus includes privileged access governance, granular RBAC, database access 
 
 ### Endpoint Management | NinjaOne RMM
 
-The focus includes endpoint administration, operational visibility, remote management and structured device management processes.
+The focus includes centralized endpoint visibility, patch management, vulnerability review, remote administration, monitoring, automation and support for remote devices without VPN dependency.
 
-**Public case study:** Planned.
+**Case study:** [NinjaOne Endpoint Management](ninjaone-endpoint-management.md)
 
 ### Windows & Infrastructure Hardening
 
