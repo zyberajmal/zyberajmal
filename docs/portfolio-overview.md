@@ -212,17 +212,36 @@ The emphasis is not simply on which products were used. The portfolio shows the 
 
 ## Certifications
 
-Professional certifications currently represented in the portfolio include:
+My certification history spans Microsoft, EC-Council, Mimecast, Fortinet, Cisco and Splunk and reflects technical development from early infrastructure and networking through cybersecurity architecture, operations, identity and email security.
 
-- **Certified Ethical Hacker (CEH)**
-- **Microsoft SC-100 | Cybersecurity Architect Expert**
-- **Microsoft SC-200 | Security Operations Analyst Associate**
-- **Microsoft SC-900 | Security, Compliance, and Identity Fundamentals**
-- **Cisco Certified Network Associate (CCNA)**
+### Current Credentials
 
-I view certifications as structured learning that becomes valuable when combined with practical implementation, troubleshooting, documentation and continued hands-on experience.
+- **Microsoft Certified: Cybersecurity Architect Expert | Issued Dec 2025 | Expires Dec 2026**
+- **Microsoft Certified: Security, Compliance, and Identity Fundamentals | Issued Mar 2025 | No expiration**
 
-[View certification details](../career/certifications.md)
+### Expired Credentials
+
+- **Microsoft Certified: Security Operations Analyst Associate | Jun 2025 to Jun 2026**
+- **Certified Ethical Hacker (CEH) | Jun 2023 to Jun 2026**
+- **Mimecast Email Security, Cloud Gateway Advanced | Jan 2024 to Jan 2026**
+- **Mimecast DMARC Analyzer | Dec 2023 to Dec 2025**
+
+### Additional Vendor Credentials
+
+- **Mimecast Brand Exploit Protection | Issued Dec 2023**
+- **Mimecast Secure Email Gateway - Level 1 Warrior | Issued May 2024**
+
+### Legacy and Historical Credentials
+
+- **Fortinet Network Security Expert Level 1: Certified Associate | Issued Jun 2020**
+- **Fortinet Network Security Expert Level 2: Certified Associate | Issued Jun 2020**
+- **Splunk 7.x Fundamentals Part 1 | Issued Feb 2021**
+- **Microsoft Certified Technical Specialist | Issued Jan 2010**
+- **Cisco Certified Network Associate Routing and Switching | Issued Oct 2010**
+
+Expired and legacy certifications are retained because they form part of my professional learning history, but they are not presented as currently active credentials.
+
+[View complete certification details and status](../career/certifications.md)
 
 ---
 
