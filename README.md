@@ -1,52 +1,66 @@
+<div align="center">
+
 # Ajmal Anwar
 
 ### Enterprise Infrastructure & Security Engineer
 
 **Designing secure, scalable and well-documented enterprise technology environments.**
 
+[Professional Portfolio](https://ajmalanwar.com) · [Capabilities](career/capabilities.md) · [Projects](projects/README.md) · [Career Journey](career/professional-journey.md)
+
+</div>
+
+---
+
+## About Me
+
 I am an enterprise technology professional with **15+ years of experience** across infrastructure engineering, data-center operations, hospitality technology, cybersecurity implementation, governance, documentation and project delivery.
 
-My work focuses on connecting **technology, security and business requirements** — building environments that are secure, reliable, understandable and practical to operate.
+My work focuses on connecting **technology, security and business requirements**. I aim to build environments that are secure, reliable, understandable and practical to operate.
 
-🌐 **Professional Portfolio:** [ajmalanwar.com](https://ajmalanwar.com)
+I believe security creates the most value when it is integrated into the wider technology environment and supported by clear documentation, thoughtful implementation and continuous improvement.
 
 ---
 
 ## Professional Focus
 
-- **Enterprise Infrastructure** — Windows, networking, endpoint management and core enterprise platforms
-- **Security Engineering** — endpoint, identity, email, access and infrastructure security
-- **Security Implementation** — translating requirements into practical technical controls
-- **Identity & Access Management** — authentication, access governance and privileged access
-- **Governance & Compliance** — security frameworks, hardening, policy alignment and evidence
-- **Project Delivery** — research, design, implementation, validation and handover
-- **Documentation & Knowledge Transfer** — architecture, procedures, implementation guides and operational knowledge
+| Capability | Focus |
+|---|---|
+| **Enterprise Infrastructure** | Windows, networking, endpoint management and core enterprise platforms |
+| **Security Engineering** | Endpoint, identity, email, access and infrastructure security |
+| **Security Implementation** | Translating security requirements into practical technical controls |
+| **Identity & Access Management** | Authentication, access governance and privileged access |
+| **Governance & Compliance** | Security frameworks, hardening, policy alignment and evidence |
+| **Project Delivery** | Research, design, implementation, validation and handover |
+| **Documentation & Knowledge Transfer** | Architecture, procedures, implementation guides and operational knowledge |
 
-[Explore my enterprise capabilities →](career/capabilities.md)
+[Explore my enterprise capabilities](career/capabilities.md)
 
 ---
 
-## How I Approach Technology
+## Engineering Approach
 
 > **Understand → Research → Evaluate → Design → Implement → Validate → Document → Train → Improve**
 
-I believe successful engineering is not only about deploying technology. It is about understanding the business problem, selecting the right control, implementing it safely, documenting the decisions and making the environment easier to operate and improve over time.
+Successful engineering is not simply about deploying technology. It begins with understanding the business problem and continues through research, design, implementation, validation, documentation, knowledge transfer and ongoing improvement.
 
-[Read my engineering approach →](methodology/engineering-approach.md)
+My objective is to create technology environments that can be operated confidently, supported consistently and improved as business and security requirements evolve.
+
+[Read my engineering approach](methodology/engineering-approach.md)
 
 ---
 
-## Selected Enterprise Security Experience
+## Enterprise Technology & Security Experience
 
-| Area | Platforms / Experience |
+| Area | Platforms and Experience |
 |---|---|
 | Endpoint Security | CrowdStrike, BitLocker, endpoint hardening |
 | Identity & Access | Okta, StrongDM, MFA, privileged access |
-| Email Security | Mimecast, DMARC and email-security controls |
+| Email Security | Mimecast, DMARC and email security controls |
 | Monitoring & Detection | Datadog, Wazuh, Security Onion, Sysmon |
 | Endpoint Management | NinjaOne RMM, Windows administration |
 | Network Security | Fortinet, network segmentation and secure connectivity |
-| Security Awareness | KnowBe4, awareness and user-security initiatives |
+| Security Awareness | KnowBe4, awareness and user security initiatives |
 | Documentation | Architecture, implementation, SOPs, troubleshooting and knowledge bases |
 
 ---
@@ -54,59 +68,67 @@ I believe successful engineering is not only about deploying technology. It is a
 ## Featured Project Areas
 
 ### Endpoint Protection
-Enterprise endpoint-security implementation, policy development, deployment coordination, validation and continuous improvement.
+
+Enterprise endpoint security work focused on policy implementation, deployment coordination, validation, operational visibility and continuous improvement.
 
 ### Identity Management
-Identity and access controls designed around secure authentication, access governance and practical user operations.
+
+Identity and access controls designed around secure authentication, access governance, user lifecycle requirements and practical business operations.
 
 ### Email Security
-Email-security controls focused on reducing phishing, spoofing and account-compromise risk while supporting business communication.
+
+Email security controls focused on reducing phishing, spoofing and account compromise risk while supporting reliable business communication.
 
 ### Privileged Access
-Secure administrative-access workflows designed to reduce direct privileged exposure and improve control over sensitive systems.
 
-[Explore the project portfolio →](projects/README.md)
+Administrative access workflows designed to reduce unnecessary privileged exposure and improve control over sensitive systems.
+
+[Explore the project portfolio](projects/README.md)
 
 ---
 
 ## Professional Journey
 
-My career has developed from systems administration and infrastructure support into data-center operations, hospitality technology leadership and enterprise infrastructure & security engineering.
+My career developed from systems administration and infrastructure support into data-center operations, hospitality technology leadership and enterprise infrastructure and security engineering.
 
-This background gives me a practical perspective on cybersecurity: **security works best when it is designed as part of the wider technology environment rather than treated as a separate layer.**
+This background gives me a practical perspective on cybersecurity. Security works best when it is designed as part of the wider technology environment rather than added as a separate layer after implementation.
 
-[View my professional journey →](career/professional-journey.md)
+[View my professional journey](career/professional-journey.md)
 
 ---
 
 ## Certifications
 
-- **CEH** — Certified Ethical Hacker
-- **Microsoft SC-100** — Cybersecurity Architect Expert
-- **Microsoft SC-200** — Security Operations Analyst Associate
-- **Microsoft SC-900** — Security, Compliance, and Identity Fundamentals
-- **CCNA** — Cisco Certified Network Associate
+- **CEH** | Certified Ethical Hacker
+- **Microsoft SC-100** | Cybersecurity Architect Expert
+- **Microsoft SC-200** | Security Operations Analyst Associate
+- **Microsoft SC-900** | Security, Compliance, and Identity Fundamentals
+- **CCNA** | Cisco Certified Network Associate
 
 ---
 
-## What I Value
+## Professional Principles
 
 **Integrity · Curiosity · Continuous Improvement · Practical Solutions**
 
-> Technology should solve business problems. Security should be built into every implementation. Documentation creates long-term value.
+> Technology should solve business problems. Security should be built into every implementation. Documentation should preserve knowledge and create long-term value.
 
 ---
 
-## Explore
+## Explore My Work
 
-- 🌐 [Professional Portfolio](https://ajmalanwar.com)
-- 🧭 [Engineering Approach](methodology/engineering-approach.md)
-- 🏗️ [Enterprise Capabilities](career/capabilities.md)
-- 🛡️ [Project Portfolio](projects/README.md)
-- 🧑‍💻 [Professional Journey](career/professional-journey.md)
+- [Professional Portfolio](https://ajmalanwar.com)
+- [Enterprise Capabilities](career/capabilities.md)
+- [Engineering Approach](methodology/engineering-approach.md)
+- [Project Portfolio](projects/README.md)
+- [Professional Journey](career/professional-journey.md)
 
 ---
+
+<div align="center">
 
 ### Learn. Build. Document. Improve.
 
 *This profile contains sanitized professional and technical information for public presentation. Confidential company data, internal architecture, credentials and sensitive operational details are intentionally excluded.*
+
+</div>
