@@ -104,6 +104,12 @@ Windows and Active Directory security work focused on identity change monitoring
 
 [Read the Windows & Active Directory Security Hardening case study](projects/windows-active-directory-security-hardening.md)
 
+### Detection Engineering
+
+Security detection engineering work focused on Datadog rule inventory, coverage mapping, gap analysis, Windows and Active Directory use cases, prioritization, validation, false-positive tuning and documentation.
+
+[Read the Datadog Security Detection Engineering case study](projects/datadog-security-detection-engineering.md)
+
 ### Platform Security & Governance
 
 Platform security review focused on user and guest governance, public sharing, authentication, password controls, link protection, encryption review and ISO 27001-aligned recommendations.
@@ -153,6 +159,7 @@ This background gives me a practical perspective on cybersecurity. Security work
 - [StrongDM Privileged Access Case Study](projects/strongdm-privileged-access.md)
 - [NinjaOne Endpoint Management Case Study](projects/ninjaone-endpoint-management.md)
 - [Windows & Active Directory Security Hardening Case Study](projects/windows-active-directory-security-hardening.md)
+- [Datadog Security Detection Engineering Case Study](projects/datadog-security-detection-engineering.md)
 - [ownCloud Security Hardening & Governance Review](projects/owncloud-security-hardening-governance.md)
 - [Enterprise Capabilities](career/capabilities.md)
 - [Engineering Approach](methodology/engineering-approach.md)
