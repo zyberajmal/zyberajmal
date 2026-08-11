@@ -81,6 +81,8 @@ My project work is supported by two public learning spaces:
 
 My career developed from systems administration and infrastructure support into data-center operations, hospitality technology leadership, enterprise infrastructure and security engineering.
 
+Recognition includes **Employee of the Year (2026)**, **Team Spirit & Collaboration Award (2023)**, and **Customer Satisfaction Awards from Wipro (2013 & 2014)**.
+
 [Professional Journey](career/professional-journey.md) · [Certifications](career/certifications.md) · [Awards & Recognition](career/awards-recognition.md)
 
 ---
