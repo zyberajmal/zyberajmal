@@ -36,11 +36,11 @@ The focus includes centralized endpoint visibility, patch management, vulnerabil
 
 **Case study:** [NinjaOne Endpoint Management](ninjaone-endpoint-management.md)
 
-### Windows & Infrastructure Hardening
+### Windows & Active Directory Security Hardening
 
-The focus includes Windows security, Active Directory monitoring, endpoint hardening, encryption, access controls and security use case development.
+The focus includes Active Directory change monitoring, privileged group activity, GPO and OU changes, authentication security, endpoint hardening, BitLocker, Datadog detections and controlled validation.
 
-**Public case study:** Planned.
+**Case study:** [Windows & Active Directory Security Hardening](windows-active-directory-security-hardening.md)
 
 ## Case Study Structure
 
