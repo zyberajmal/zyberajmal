@@ -1,16 +1,32 @@
-## Hi there 👋
+# Ajmal Anwar
 
-<!--
-**zyberajmal/zyberajmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Enterprise Infrastructure & Security Engineer
 
-Here are some ideas to get you started:
+**Designing secure, scalable and well-documented enterprise technology environments.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an enterprise technology professional with 15+ years of experience across infrastructure engineering, data-center operations, cybersecurity implementation, governance, documentation and project delivery.
+
+My work focuses on connecting **technology, security and business requirements** to build environments that are secure, reliable, understandable and practical to operate.
+
+🌐 [Professional Portfolio — ajmalanwar.com](https://ajmalanwar.com)
+
+---
+
+## Professional Focus
+
+- Enterprise Infrastructure
+- Security Engineering & Implementation
+- Identity & Access Management
+- Governance & Compliance
+- Project Delivery
+- Documentation & Knowledge Transfer
+
+## Engineering Approach
+
+**Understand → Research → Evaluate → Design → Implement → Validate → Document → Train → Improve**
+
+I believe technology should solve business problems, security should be built into implementation, and documentation should preserve the value of technical decisions over time.
+
+---
+
+### Learn. Build. Document. Improve.
