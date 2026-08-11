@@ -57,6 +57,8 @@ Each detailed project will follow a consistent structure:
 9. Business and Operational Value
 10. Documentation and Lessons Learned
 
+[View the detailed public case study template](case-study-template.md)
+
 ## Publication Principle
 
 Only information suitable for a public professional portfolio will be included. Sensitive items such as internal IP addresses, hostnames, credentials, customer information, non-public architecture, proprietary screenshots and confidential company data will be excluded or generalized.
