@@ -69,7 +69,9 @@ My objective is to create technology environments that can be operated confident
 
 ### Endpoint Protection
 
-Enterprise endpoint security work focused on policy implementation, deployment coordination, validation, operational visibility and continuous improvement.
+Enterprise endpoint security work focused on behavioral protection, policy implementation, deployment support, validation, EDR visibility, alert triage and continuous improvement.
+
+[Read the CrowdStrike Endpoint Protection case study](projects/crowdstrike-endpoint-protection.md)
 
 ### Identity Management
 
@@ -120,6 +122,7 @@ This background gives me a practical perspective on cybersecurity. Security work
 ## Explore My Work
 
 - [Professional Portfolio](https://ajmalanwar.com)
+- [CrowdStrike Endpoint Protection Case Study](projects/crowdstrike-endpoint-protection.md)
 - [Enterprise Capabilities](career/capabilities.md)
 - [Engineering Approach](methodology/engineering-approach.md)
 - [Project Portfolio](projects/README.md)
