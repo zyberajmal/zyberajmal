@@ -60,7 +60,7 @@ My objective is to create technology environments that can be operated confident
 | Monitoring & Detection | Datadog, Wazuh, Security Onion, Sysmon |
 | Endpoint Management | NinjaOne RMM, Windows administration |
 | Network Security | Fortinet, network segmentation and secure connectivity |
-| Security Awareness | KnowBe4, awareness and user security initiatives |
+| Security Awareness | KnowBe4, phishing simulations, training and awareness campaigns |
 | Governance & Hardening | ownCloud security review, access governance, public-sharing controls |
 | Documentation | Architecture, implementation, SOPs, troubleshooting and knowledge bases |
 
@@ -97,6 +97,12 @@ Identity and access work focused on centralized authentication, application acce
 Email security work focused on secure mail flow, phishing protection, impersonation controls, SPF, DKIM, DMARC, malicious URL and attachment protection, monitoring and policy tuning.
 
 [Read the Mimecast Email Security case study](projects/mimecast-email-security.md)
+
+### Security Awareness
+
+Security awareness work focused on phishing simulations, recurring training, policy acknowledgement, security coaching, awareness campaigns, user-risk tracking and strengthening the reporting culture.
+
+[Read the KnowBe4 Security Awareness case study](projects/knowbe4-security-awareness.md)
 
 ### Privileged Access
 
@@ -204,6 +210,7 @@ These recognitions reflect the importance I place on ownership, collaboration, c
 - [Browser Password Risk Reduction Case Study](projects/browser-password-risk-reduction.md)
 - [Okta Identity & Access Management Case Study](projects/okta-identity-access-management.md)
 - [Mimecast Email Security Case Study](projects/mimecast-email-security.md)
+- [KnowBe4 Security Awareness Case Study](projects/knowbe4-security-awareness.md)
 - [StrongDM Privileged Access Case Study](projects/strongdm-privileged-access.md)
 - [NinjaOne Endpoint Management Case Study](projects/ninjaone-endpoint-management.md)
 - [Windows & Active Directory Security Hardening Case Study](projects/windows-active-directory-security-hardening.md)
