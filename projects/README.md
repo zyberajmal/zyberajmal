@@ -12,6 +12,12 @@ The focus includes enterprise endpoint protection, behavioral detection, policy 
 
 **Case study:** [CrowdStrike Endpoint Protection](crowdstrike-endpoint-protection.md)
 
+### Endpoint Encryption | Microsoft BitLocker
+
+The focus includes standardized full-disk encryption, Active Directory Group Policy deployment, centralized recovery-key handling, validation, user support and data-at-rest protection across managed Windows laptops.
+
+**Case study:** [BitLocker Endpoint Encryption](bitlocker-endpoint-encryption.md)
+
 ### Identity & Access Management | Okta
 
 The focus includes centralized authentication, application access, identity lifecycle controls, least privilege, access validation, documentation and operational governance.
