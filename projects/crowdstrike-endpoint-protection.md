@@ -141,7 +141,7 @@ I contributed to:
 
 This work combined infrastructure knowledge with security engineering and helped strengthen my approach to endpoint protection as part of the wider enterprise environment.
 
-## Documentation and Knowledge
+## Documentation and Knowledge Transfer
 
 A sustainable security implementation requires clear operational knowledge.
 
