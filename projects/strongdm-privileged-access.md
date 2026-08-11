@@ -6,7 +6,7 @@ This project focused on improving control, visibility and accountability for pri
 
 The existing access model relied too heavily on direct administrator and developer access using static database credentials and SSH keys. The goal was to introduce a more controlled access model that could reduce credential exposure, apply granular permissions and provide stronger auditing of privileged activity.
 
-StrongDM was selected after evaluating privileged access options, including Delinea PAM.
+StrongDM was selected after evaluating privileged access options against the technical and operational requirements of the environment.
 
 This case study is intentionally generalized for public presentation. Internal system names, infrastructure details, account information, access policies, network architecture and sensitive configuration data are excluded.
 
@@ -36,7 +36,7 @@ The main requirements included:
 
 The work included evaluating privileged access approaches before implementation.
 
-Delinea PAM was among the solutions considered during the evaluation stage. The final approach used StrongDM because it aligned more closely with the technical and operational requirements identified for the environment.
+StrongDM was selected because it aligned well with the technical and operational requirements identified for the environment.
 
 The evaluation considered more than security features. It also looked at how privileged access would work in daily operations, how permissions could be mapped to user responsibilities and how the model could reduce direct credential handling.
 
