@@ -34,6 +34,8 @@ My infrastructure background shapes how I approach cybersecurity today. I do not
 
 That perspective continues to guide my work across security engineering, implementation, governance, documentation and project delivery.
 
+The practical evidence behind this progression is documented across my [Enterprise Capabilities](capabilities.md) and [Project Portfolio](../projects/README.md).
+
 ---
 
-[← Back to profile](../README.md)
+[Enterprise Capabilities](capabilities.md) · [Project Portfolio](../projects/README.md) · [Certifications](certifications.md) · [Awards & Recognition](awards-recognition.md) · [Back to profile](../README.md)
