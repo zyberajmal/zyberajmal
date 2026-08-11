@@ -18,6 +18,12 @@ The focus includes standardized full-disk encryption, Active Directory Group Pol
 
 **Case study:** [BitLocker Endpoint Encryption](bitlocker-endpoint-encryption.md)
 
+### Credential Protection | Browser Password Risk Reduction
+
+The focus includes restricting browser password saving through Active Directory Group Policy, reducing locally stored credentials, moving users toward an enterprise-managed credential vault, validation and user awareness.
+
+**Case study:** [Browser Password Risk Reduction](browser-password-risk-reduction.md)
+
 ### Identity & Access Management | Okta
 
 The focus includes centralized authentication, application access, identity lifecycle controls, least privilege, access validation, documentation and operational governance.
