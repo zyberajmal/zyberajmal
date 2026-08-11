@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Ajmal Anwar portfolio header</title>
+  <desc id="desc">Abstract enterprise technology architecture on a deep navy background with refined emerald accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071A2D"/>
+      <stop offset="100%" stop-color="#0B2238"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="48%" r="46%">
+      <stop offset="0%" stop-color="#04FF88" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#04FF88" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="240" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="240" rx="22" fill="url(#glow)"/>
+
+  <g opacity="0.16" stroke="#AFC3D5" stroke-width="1">
+    <path d="M0 48H1200M0 96H1200M0 144H1200M0 192H1200"/>
+    <path d="M120 0V240M240 0V240M360 0V240M480 0V240M600 0V240M720 0V240M840 0V240M960 0V240M1080 0V240"/>
+  </g>
+
+  <g fill="none" stroke="#04FF88" stroke-width="1.4" opacity="0.78">
+    <path d="M710 122H790L835 77H930L974 121H1080"/>
+    <path d="M790 122L835 167H930L974 121"/>
+    <path d="M835 77V54H910"/>
+    <path d="M835 167V190H910"/>
+    <path d="M930 77L956 52H1042"/>
+    <path d="M930 167L956 192H1042"/>
+  </g>
+
+  <g fill="#071A2D" stroke="#04FF88" stroke-width="1.6">
+    <circle cx="710" cy="122" r="6"/>
+    <circle cx="790" cy="122" r="6"/>
+    <circle cx="835" cy="77" r="6"/>
+    <circle cx="835" cy="167" r="6"/>
+    <circle cx="930" cy="77" r="6"/>
+    <circle cx="930" cy="167" r="6"/>
+    <circle cx="974" cy="121" r="7"/>
+    <circle cx="1080" cy="121" r="6"/>
+    <circle cx="910" cy="54" r="5"/>
+    <circle cx="910" cy="190" r="5"/>
+    <circle cx="1042" cy="52" r="5"/>
+    <circle cx="1042" cy="192" r="5"/>
+  </g>
+
+  <g opacity="0.58" fill="#AFC3D5">
+    <rect x="72" y="66" width="420" height="3" rx="1.5"/>
+    <rect x="72" y="82" width="324" height="3" rx="1.5" opacity="0.62"/>
+    <rect x="72" y="158" width="286" height="2" rx="1" opacity="0.52"/>
+    <rect x="72" y="173" width="356" height="2" rx="1" opacity="0.36"/>
+  </g>
+
+  <rect x="72" y="112" width="112" height="4" rx="2" fill="#04FF88" opacity="0.9"/>
+  <rect x="72" y="126" width="64" height="4" rx="2" fill="#04FF88" opacity="0.42"/>
+
+  <rect x="1" y="1" width="1198" height="238" rx="21" fill="none" stroke="#04FF88" stroke-opacity="0.18"/>
+</svg>
