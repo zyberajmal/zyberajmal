@@ -61,6 +61,7 @@ My objective is to create technology environments that can be operated confident
 | Endpoint Management | NinjaOne RMM, Windows administration |
 | Network Security | Fortinet, network segmentation and secure connectivity |
 | Security Awareness | KnowBe4, awareness and user security initiatives |
+| Governance & Hardening | ownCloud security review, access governance, public-sharing controls |
 | Documentation | Architecture, implementation, SOPs, troubleshooting and knowledge bases |
 
 ---
@@ -102,6 +103,12 @@ Endpoint management work focused on centralized visibility, patch management, vu
 Windows and Active Directory security work focused on identity change monitoring, privileged group activity, GPO and OU changes, authentication security, BitLocker, Datadog detections and controlled validation.
 
 [Read the Windows & Active Directory Security Hardening case study](projects/windows-active-directory-security-hardening.md)
+
+### Platform Security & Governance
+
+Platform security review focused on user and guest governance, public sharing, authentication, password controls, link protection, encryption review and ISO 27001-aligned recommendations.
+
+[Read the ownCloud Security Hardening & Governance Review](projects/owncloud-security-hardening-governance.md)
 
 [Explore the full project portfolio](projects/README.md)
 
@@ -146,6 +153,7 @@ This background gives me a practical perspective on cybersecurity. Security work
 - [StrongDM Privileged Access Case Study](projects/strongdm-privileged-access.md)
 - [NinjaOne Endpoint Management Case Study](projects/ninjaone-endpoint-management.md)
 - [Windows & Active Directory Security Hardening Case Study](projects/windows-active-directory-security-hardening.md)
+- [ownCloud Security Hardening & Governance Review](projects/owncloud-security-hardening-governance.md)
 - [Enterprise Capabilities](career/capabilities.md)
 - [Engineering Approach](methodology/engineering-approach.md)
 - [Project Portfolio](projects/README.md)
