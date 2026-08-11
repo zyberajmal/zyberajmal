@@ -8,9 +8,9 @@ The goal is to show how I approach real-world engineering problems without publi
 
 ### Endpoint Security | CrowdStrike
 
-The focus includes enterprise endpoint protection, policy implementation, deployment coordination, validation and operational improvement.
+The focus includes enterprise endpoint protection, behavioral detection, policy implementation, deployment support, validation, EDR visibility, alert triage and operational improvement.
 
-**Public case study:** Planned.
+**Case study:** [CrowdStrike Endpoint Protection](crowdstrike-endpoint-protection.md)
 
 ### Identity & Access Management | Okta
 
