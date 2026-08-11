@@ -91,6 +91,12 @@ Privileged access work focused on granular RBAC, controlled database access, ses
 
 [Read the StrongDM Privileged Access case study](projects/strongdm-privileged-access.md)
 
+### Endpoint Management
+
+Endpoint management work focused on centralized visibility, patch management, vulnerability prioritization, remote administration, monitoring and automation for distributed devices.
+
+[Read the NinjaOne Endpoint Management case study](projects/ninjaone-endpoint-management.md)
+
 [Explore the full project portfolio](projects/README.md)
 
 ---
@@ -132,6 +138,7 @@ This background gives me a practical perspective on cybersecurity. Security work
 - [Okta Identity & Access Management Case Study](projects/okta-identity-access-management.md)
 - [Mimecast Email Security Case Study](projects/mimecast-email-security.md)
 - [StrongDM Privileged Access Case Study](projects/strongdm-privileged-access.md)
+- [NinjaOne Endpoint Management Case Study](projects/ninjaone-endpoint-management.md)
 - [Enterprise Capabilities](career/capabilities.md)
 - [Engineering Approach](methodology/engineering-approach.md)
 - [Project Portfolio](projects/README.md)
