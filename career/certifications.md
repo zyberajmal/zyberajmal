@@ -32,6 +32,8 @@ I view certifications as one part of professional development. Their value comes
 
 My broader goal is to understand how infrastructure, security controls, identity, networking, governance and business operations connect in a real enterprise environment.
 
+That practical application is reflected across my [Enterprise Capabilities](capabilities.md), [Project Portfolio](../projects/README.md) and [Knowledge & Lab](../learning/README.md).
+
 ---
 
-[← Back to profile](../README.md)
+[Professional Journey](professional-journey.md) · [Enterprise Capabilities](capabilities.md) · [Project Portfolio](../projects/README.md) · [Awards & Recognition](awards-recognition.md) · [Back to profile](../README.md)
