@@ -42,6 +42,12 @@ The focus includes Active Directory change monitoring, privileged group activity
 
 **Case study:** [Windows & Active Directory Security Hardening](windows-active-directory-security-hardening.md)
 
+### ownCloud Security Hardening & Governance
+
+The focus includes platform security assessment, user and guest governance, public-sharing controls, authentication, password policy, link protection, expiration, encryption review, ISO 27001 alignment and structured management recommendations.
+
+**Case study:** [ownCloud Security Hardening & Governance Review](owncloud-security-hardening-governance.md)
+
 ## Case Study Structure
 
 Each detailed project will follow a consistent structure:
