@@ -6,7 +6,7 @@
 
 **Designing secure, scalable and well-documented enterprise technology environments.**
 
-[Professional Portfolio](https://ajmalanwar.com) · [Capabilities](career/capabilities.md) · [Projects](projects/README.md) · [Career Journey](career/professional-journey.md) · [Recognition](career/awards-recognition.md)
+[Professional Portfolio](https://ajmalanwar.com) · [Capabilities](career/capabilities.md) · [Projects](projects/README.md) · [Knowledge & Lab](learning/README.md) · [Career Journey](career/professional-journey.md) · [Recognition](career/awards-recognition.md)
 
 </div>
 
@@ -120,6 +120,26 @@ Platform security review focused on user and guest governance, public sharing, a
 
 ---
 
+## Knowledge & Lab
+
+My portfolio is supported by two public learning spaces that document the deeper technical thinking and hands-on learning behind my work.
+
+### ZyberKnowledge
+
+A maintained enterprise technology and security knowledge base covering infrastructure, security engineering, identity, detection and response, governance, hardening and engineering practices.
+
+[Open ZyberKnowledge](https://ajmal-anwar.gitbook.io/zyberspace-by-ajmal/zyberknowledge)
+
+### ZyberLab
+
+A practical cybersecurity lab focused on Windows, Active Directory, security events, Sysmon, monitoring, networking and small hands-on exercises designed to build and validate technical understanding.
+
+[Open ZyberLab](https://ajmal-anwar.gitbook.io/zyberspace-by-ajmal/)
+
+[Explore how Knowledge, Lab and Portfolio connect](learning/README.md)
+
+---
+
 ## Professional Journey
 
 My career developed from systems administration and infrastructure support into data-center operations, hospitality technology leadership and enterprise infrastructure and security engineering.
@@ -164,6 +184,9 @@ These recognitions reflect the importance I place on ownership, collaboration, c
 ## Explore My Work
 
 - [Professional Portfolio](https://ajmalanwar.com)
+- [Knowledge & Lab](learning/README.md)
+- [ZyberKnowledge](https://ajmal-anwar.gitbook.io/zyberspace-by-ajmal/zyberknowledge)
+- [ZyberLab](https://ajmal-anwar.gitbook.io/zyberspace-by-ajmal/)
 - [CrowdStrike Endpoint Protection Case Study](projects/crowdstrike-endpoint-protection.md)
 - [Okta Identity & Access Management Case Study](projects/okta-identity-access-management.md)
 - [Mimecast Email Security Case Study](projects/mimecast-email-security.md)
