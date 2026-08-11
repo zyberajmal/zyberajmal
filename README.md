@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-header.svg" alt="Abstract enterprise technology architecture in navy and emerald" width="100%" />
+</p>
+
 <div align="center">
 
 # Ajmal Anwar
