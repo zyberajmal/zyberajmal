@@ -22,6 +22,16 @@ Technology work often crosses departments, locations and areas of responsibility
 
 This recognition reflects the collaborative approach I try to bring to infrastructure, security and project work.
 
+## Customer Satisfaction Awards
+
+**Wipro | 2013 & 2014**
+
+Received Customer Satisfaction Awards during my time with Wipro in recognition of service quality and contribution to customer support and delivery.
+
+These recognitions reflect the importance of understanding customer requirements, maintaining service reliability, communicating clearly and taking ownership of operational issues through to resolution.
+
+They also represent an important part of my earlier enterprise technology experience, where strong technical delivery needed to be matched with consistency, responsiveness and customer confidence.
+
 ## What Recognition Means to Me
 
 Awards are not the objective of the work, but they provide useful confirmation that professional impact is broader than the technology being implemented.
