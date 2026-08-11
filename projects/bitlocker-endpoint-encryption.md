@@ -236,4 +236,4 @@ Deployment, validation, recovery and troubleshooting knowledge should remain ava
 
 ---
 
-[Back to project portfolio](README.md) | [Back to profile](../README.md)
+[Project Portfolio](README.md) · [Enterprise Capabilities](../career/capabilities.md) · [Engineering Approach](../methodology/engineering-approach.md) · [Knowledge & Lab](../learning/README.md) · [Back to profile](../README.md)
