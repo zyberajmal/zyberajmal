@@ -75,7 +75,9 @@ Enterprise endpoint security work focused on behavioral protection, policy imple
 
 ### Identity Management
 
-Identity and access controls designed around secure authentication, access governance, user lifecycle requirements and practical business operations.
+Identity and access work focused on centralized authentication, application access, user lifecycle controls, least privilege, access validation and operational governance.
+
+[Read the Okta Identity & Access Management case study](projects/okta-identity-access-management.md)
 
 ### Email Security
 
@@ -123,6 +125,7 @@ This background gives me a practical perspective on cybersecurity. Security work
 
 - [Professional Portfolio](https://ajmalanwar.com)
 - [CrowdStrike Endpoint Protection Case Study](projects/crowdstrike-endpoint-protection.md)
+- [Okta Identity & Access Management Case Study](projects/okta-identity-access-management.md)
 - [Enterprise Capabilities](career/capabilities.md)
 - [Engineering Approach](methodology/engineering-approach.md)
 - [Project Portfolio](projects/README.md)
