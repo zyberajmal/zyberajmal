@@ -105,6 +105,8 @@ This background gives me a practical perspective on cybersecurity. Security work
 - **Microsoft SC-900** | Security, Compliance, and Identity Fundamentals
 - **CCNA** | Cisco Certified Network Associate
 
+[View certification details](career/certifications.md)
+
 ---
 
 ## Professional Principles
@@ -122,6 +124,7 @@ This background gives me a practical perspective on cybersecurity. Security work
 - [Engineering Approach](methodology/engineering-approach.md)
 - [Project Portfolio](projects/README.md)
 - [Professional Journey](career/professional-journey.md)
+- [Professional Certifications](career/certifications.md)
 
 ---
 
