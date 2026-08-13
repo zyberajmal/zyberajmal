@@ -57,12 +57,12 @@ I use this lifecycle to connect technical implementation with business context, 
 |---|---|
 | [**CrowdStrike Endpoint Protection**](projects/crowdstrike-endpoint-protection.md) | Behavioral endpoint protection, EDR visibility, policy implementation and investigation |
 | [**Okta Identity & Access Management**](projects/okta-identity-access-management.md) | Centralized identity, application access, lifecycle controls and least privilege |
-| [**Mimecast Email Security**](projects/mimecast-email-security.md) | Secure email gateway, anti-phishing, impersonation protection, SPF, DKIM and DMARC |
+| [**Windows & Active Directory Security Hardening**](projects/windows-active-directory-security-hardening.md) | Infrastructure hardening, identity and privilege oversight, policy controls, logging and validation |
 | [**StrongDM Privileged Access**](projects/strongdm-privileged-access.md) | RBAC, controlled infrastructure access, reduced static credentials and session visibility |
 | [**NinjaOne Endpoint Management**](projects/ninjaone-endpoint-management.md) | Patch management, vulnerability visibility, remote administration and automation |
 | [**Datadog Security Detection Engineering**](projects/datadog-security-detection-engineering.md) | Detection coverage, gap analysis, prioritization, validation and tuning |
 
-Additional work includes endpoint encryption, browser credential protection, Windows and Active Directory security hardening, security awareness, and cloud file sharing platform security governance.
+Additional work includes email security, endpoint encryption, browser credential protection, security awareness, and cloud file sharing platform security governance.
 
 [Explore the full project portfolio](projects/README.md)
 
