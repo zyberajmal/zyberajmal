@@ -8,9 +8,9 @@
 
 ## Ajmal Anwar
 
-### Enterprise Infrastructure & Security Engineer
+### Enterprise Infrastructure, Security & Technology
 
-**Designing secure, scalable and well-documented enterprise technology environments.**
+**Enterprise technology professional with 15+ years of experience across infrastructure, security implementation, technology transformation, governance and operational improvement.**
 
 [Professional Portfolio](https://ajmalanwar.com) · [GitHub Profile](../README.md) · [Project Portfolio](../projects/README.md) · [Knowledge & Lab](../learning/README.md)
 
