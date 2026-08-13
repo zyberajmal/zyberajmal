@@ -8,7 +8,7 @@
 
 ### Enterprise Infrastructure, Security & Technology
 
-**Designing secure, scalable and well-documented enterprise technology environments.**
+**Designing, securing and continuously improving enterprise technology environments.**
 
 [Professional Portfolio](https://ajmalanwar.com) · [Portfolio Overview](docs/portfolio-overview.md) · [Projects](projects/README.md) · [Capabilities](career/capabilities.md) · [Knowledge & Lab](learning/README.md) · [Career Journey](career/professional-journey.md)
 
