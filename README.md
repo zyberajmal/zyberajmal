@@ -55,11 +55,11 @@ I use this lifecycle to connect technical implementation with business context, 
 
 | Project | Focus |
 |---|---|
-| [**CrowdStrike Endpoint Protection**](projects/crowdstrike-endpoint-protection.md) | Behavioral endpoint protection, EDR visibility, policy implementation and investigation |
-| [**Okta Identity & Access Management**](projects/okta-identity-access-management.md) | Centralized identity, application access, lifecycle controls and least privilege |
-| [**Windows & Active Directory Security Hardening**](projects/windows-active-directory-security-hardening.md) | Infrastructure hardening, identity and privilege oversight, policy controls, logging and validation |
-| [**StrongDM Privileged Access**](projects/strongdm-privileged-access.md) | RBAC, controlled infrastructure access, reduced static credentials and session visibility |
 | [**NinjaOne Endpoint Management**](projects/ninjaone-endpoint-management.md) | Patch management, vulnerability visibility, remote administration and automation |
+| [**Windows & Active Directory Security Hardening**](projects/windows-active-directory-security-hardening.md) | Infrastructure hardening, identity and privilege oversight, policy controls, logging and validation |
+| [**Okta Identity & Access Management**](projects/okta-identity-access-management.md) | Centralized identity, application access, lifecycle controls and least privilege |
+| [**StrongDM Privileged Access**](projects/strongdm-privileged-access.md) | RBAC, controlled infrastructure access, reduced static credentials and session visibility |
+| [**CrowdStrike Endpoint Protection**](projects/crowdstrike-endpoint-protection.md) | Behavioral endpoint protection, EDR visibility, policy implementation and investigation |
 | [**Datadog Security Detection Engineering**](projects/datadog-security-detection-engineering.md) | Detection coverage, gap analysis, prioritization, validation and tuning |
 
 Additional work includes email security, endpoint encryption, browser credential protection, security awareness, and cloud file sharing platform security governance.
