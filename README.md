@@ -6,7 +6,7 @@
 
 # Ajmal Anwar
 
-### Enterprise Infrastructure & Security Engineer
+### Enterprise Infrastructure, Security & Technology
 
 **Designing secure, scalable and well-documented enterprise technology environments.**
 
